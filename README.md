@@ -22,13 +22,13 @@
         -  Tabela de equipe;
         -  Tabela de usuário.
 
-  ## Aluno avalia outros integrantes da equipe a cada sprint para facilitar a visualização, facilitar o envio da avaliação e automatizar parte do processo
+## Aluno avalia outros integrantes da equipe a cada sprint para facilitar a visualização, facilitar o envio da avaliação e automatizar parte do processo
 
-  - **DoD**: 
-  - **DoR**:
-      - Tela no JavaFX:
-          - Após selecionar aluno na primeira tela, o usuário terá que colocar o seu email e, caso esteja cadastrado, terá uma tela contendo os outros alunos de seu grupo, que serão sujeitos à sua avaliação.
-      - Backend que:
-          -  Recebe as informações, e depois realiza o INSERT no banco de dados;
-      - Banco de dados contendo:
-          -  Tabela de notas.
+- **DoD**: 
+- **DoR**:
+  - Tela no JavaFX:
+      - Após selecionar aluno na primeira tela, o usuário terá que colocar o seu email e, caso esteja cadastrado, terá uma tela contendo os outros alunos de seu grupo, que serão sujeitos à sua avaliação.
+  - Backend que:
+      -  Recebe as informações, e depois realiza o INSERT no banco de dados;
+  - Banco de dados contendo:
+      -  Tabela de notas.
